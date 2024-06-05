@@ -192,5 +192,5 @@ The model defines the behavior of operations, but not how they should be impleme
 --- 
 
 <p align= "center">
-  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(2)%20Recursion">Part 2: Recursion</a>
+  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(2)%20Recursion">Part 2: Recursion Review</a>
 </p>
