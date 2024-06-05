@@ -48,7 +48,12 @@
 #### 4. [Characters & Strings](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(4)%20Characters%20%26%20Strings)
 
 **Lecture Topics:**
-- 
+- What are Characters & Strings?
+- String & Character Representation
+- Differences C/C++
+- Basic String Usage
+- Character Operations
+- String input & Output
 
 ---
 
