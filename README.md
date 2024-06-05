@@ -6,10 +6,8 @@
 #### Instructor Details
 - **Name**: ***[Andrew S. O’Fallon](https://www.linkedin.com/in/andrew-o-fallon-631281a1/)***
 
-
-
 #### Course Description
-- This xourse is about advanced programming techniques: data structures, recursion, sorting, searching, and basic algorithm analysis.
+- This course is about advanced programming techniques: data structures, recursion, sorting, searching, and basic algorithm analysis.
 
 #### Course Objectives: At the end of the course, you should be able to:
 - Apply and implement data structures
@@ -17,9 +15,6 @@
 - Analyze algorithmic complexity
 - Design, implement, and test a C++ program applying modern tools and technique
 - Solve problems using the various data structures and algorithms and write programs for thier solutions 
-
-
-
 
 
 ## Tentative Topic Schedule
