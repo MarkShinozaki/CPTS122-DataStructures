@@ -6,7 +6,15 @@
 #### 1. [Introduction](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(1)%20Introduction)
 
 **Lecture Topics:**
-- 
+- What is a Data Structure?
+- Data Structures Exposed
+- Review of Basic C Data Strucutures
+- Expanding Data Structure Knowledge
+- Basic Application of Dynamic Data Structures
+- Commonalities of C Dynamic Strucures
+- Self-Referential Structures
+- Dynamic Memory Allocation/De-Alloaction in C
+- Abstract Data Types (ADT)
   
 ---
 #### 2. [Recursion](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(2)%20Recursion)
