@@ -79,7 +79,7 @@
 
 ---
 
-#### 8. [](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(8)%20Trees)
+#### 8. [Trees](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(8)%20Trees)
 
 **Lecture Topics:**
 
