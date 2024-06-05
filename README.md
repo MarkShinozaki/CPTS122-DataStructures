@@ -9,28 +9,36 @@
 
 
 #### Course Description
-- This course covers a variety of topics in computer science including:
-- 
+- This xourse is about advanced programming techniques: data structures, recursion, sorting, searching, and basic algorithm analysis.
+
+#### Course Objectives: At the end of the course, you should be able to:
+- Apply and implement data structures
+- Apply and implement several sorting algorithms
+- Analyze algorithmic complexity
+- Design, implement, and test a C++ program applying modern tools and technique
+- Solve problems using the various data structures and algorithms and write programs for thier solutions 
+
+
 
 
 
 ## Tentative Topic Schedule
-1. Introduction to Data Structures 
-2. What is Recursion? 
-3. Pointers - ***[Helpful Video - Data Types & Variables](https://www.youtube.com/watch?v=PDzKufPL51Q)***
-4. Characters & Strings - ***[Helpful Video - Arithmetic Operators in C](https://www.youtube.com/watch?v=5JXcX0IqRUo)***
-5. Linked Lists - ***[Helpful Video - Functions in C](https://www.youtube.com/watch?v=ou_G7_zodR4)***
-6. Stacks - ***[Helpful Video - File Handling in C](https://www.youtube.com/watch?v=ou_G7_zodR4)***
-7. Queues - ***[Helpful Video - Selection Structures in C](https://www.youtube.com/watch?v=ou_G7_zodR4)***
-8. Trees - ***[Helpful Video - Loops](https://www.youtube.com/watch?v=b4DPj0XAfSg)***
-9. Classes & Objects - ***[Helpful Video - Spliting a Program across multiple files](https://www.youtube.com/watch?v=x8gsHFBW7zY)***
-10. Classes - A Deeper Look - ***[Helpful Video - Arrays](https://www.youtube.com/watch?v=eE9MnoS0lc0)***
-11. Operator Overloading - ***[Helpful Video -  Pointers](https://www.youtube.com/watch?v=f2i0CnUOniA)***
-12. Inheritance- ***[Helpful Video -  Strings](https://www.youtube.com/watch?v=5TzFNouc0PE)***
-13. Polymorphism - ***[Helpful Video -  Structs](https://www.youtube.com/watch?v=oKXP1HZ8xIs)***
-14. Templates - ***[Helpful Video -  Series on Recursion](https://www.youtube.com/watch?v=kepBmgvWNDw&list=PLBlnK6fEyqRjTO_UNGKuaaoxEqvSF0t5h)***
-15. Exception Handling - ***[Helpful Video -  BitWise Operations](https://www.youtube.com/watch?v=jlQmeyce65Q)***
-16. Abstract Data Types - ***[Helpful Video -  Dynamic Data Structures](https://www.youtube.com/watch?v=udfbq4M2Kfc)***
-17. Hash Tables - ***[Helpful Video -  Cmd line Arguments argc and argv](https://www.youtube.com/watch?v=decAHMKIo_A)***
-18. Sorting  - ***[Helpful Video -  Visual Studio Debugging](https://www.youtube.com/watch?v=4WmOdUwGcWA&list=PLUU6Q8aGTpKWaSRxdmuQJ3_tAH3FRCgJh)***
-19. Algorithm Analysis - ***[Helpful Video - Preprocessor and Macros](https://www.youtube.com/watch?v=cmGq62c1Ceg)***
+#### 1. Introduction to Data Structures - ***[Helpful Video - Data Structures](https://www.youtube.com/watch?v=xLetJpcjHS0)***
+#### 2. What is Recursion? - ***[Helpful Video - Recursion](https://www.youtube.com/watch?v=MwfvXDfaZeI)***
+#### 3. Pointers - ***[Helpful Video - Pointers](https://www.youtube.com/watch?v=rtgwvkaYt1A)***
+#### 4. Characters & Strings - ***[Helpful Video - Characters & Strings](https://www.youtube.com/watch?v=4iSyCFDT9mo)***
+#### 5. Linked Lists - ***[Helpful Video - Linked Lists](https://www.youtube.com/watch?v=m7rrk65GiXY)***
+#### 6. Stacks - ***[Helpful Video - Stacks](https://www.youtube.com/watch?v=WEwD-ZuTc1w)***
+#### 7. Queues - ***[Helpful Video - Queues](https://www.youtube.com/watch?v=juqhvOyMoeI)***
+#### 8. Trees - ***[Helpful Video - Trees](https://www.youtube.com/watch?v=UHxtjVsOTHc)***
+#### 9. Classes & Objects - ***[Helpful Video - Classes & Objects](https://www.youtube.com/watch?v=JaSy-Z1u7AY)**
+#### 10. Classes - A Deeper Look - ***[Helpful Video - More on Classes](https://www.youtube.com/watch?v=2BP8NhxjrO0)***
+#### 11. Operator Overloading - ***[Helpful Video - Operator Overloading](https://www.youtube.com/watch?v=mS9755gF66w)***
+#### 12. Inheritance- ***[Helpful Video - Inheritance](https://www.youtube.com/watch?v=X8nYM8wdNRE)***
+#### 13. Polymorphism - ***[Helpful Video - Polymorphism](https://www.youtube.com/watch?v=4NPOIaUxnnk)***
+#### 14. Templates - ***[Helpful Video - Templates](https://www.youtube.com/watch?v=mQqzP9EWu58)***
+#### 15. Exception Handling - ***[Helpful Video - Execption Handling](https://www.youtube.com/watch?v=5MI2N8yLdMI)***
+#### 16. Abstract Data Types - ***[Helpful Video - Abstract Data Types](https://www.youtube.com/watch?v=Um6FksFiDNk)***
+#### 17. Hash Tables - ***[Helpful Video - Hash Tables](https://www.youtube.com/watch?v=2_3fR-k-LzI)***
+#### 18. Sorting  - ***[Helpful Video - Sorting](https://www.youtube.com/watch?v=x0uUKWJzSO4)***
+#### 19. Algorithm Analysis - ***[Helpful Video - Algorithm Analysis](https://www.youtube.com/watch?v=D6xkbGLQesk)***
