@@ -33,7 +33,15 @@
 #### 3. [Pointers](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(3)%20Pointers)
 
 **Lecture Topics:**
-- 
+- What are Pointers?
+- Key Concepts of Pointers
+  - Pointer Declaration
+  - Pointer Initialization
+  - Dereferencing
+  - Pointer Arithmetic
+- Advantages/Disadvantages of pointers
+- Pointer Differences C/C++
+- Example: Basic Pointer usage
 
 ---
 
