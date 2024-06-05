@@ -166,10 +166,31 @@ The model defines the behavior of operations, but not how they should be impleme
 
 ### Example Specification of List ADT (continued again)
 - Functions/Methods/Operations Continued Again:
-  - `insert(L, e)`: Procedure to insert a node with information e before the current position or, in case L was empty, as the only node in L; the new node becomes the current node.
-  - `insertAfter(L, e)`: Procedure to insert a node with information e into L after the current node without changing the current position; in case L is empty, make a node containing e the only node in L and the current node.
-  - `insertFront(L, e)`: Procedure to insert a node with information e into L as the first node in the list; in case L is empty, make a node containing e the only node in L and the current node.
-  - `insertInOrder(L, e)`: Procedure to insert a node with information e into L as a node in the list, maintaining the order of the elements; in case L is empty, make a node containing e the only node in L and the current node.
+  - `insert(L, e)`: Procedure to insert a node with information e before the current position or, in case `L` was empty, as the only node in L; the new node becomes the current node.
+  - `insertAfter(L, e)`: Procedure to insert a node with information e into `L` after the current node without changing the current position; in case L is empty, make a node containing e the only node in `L` and the current node.
+  - `insertFront(L, e)`: Procedure to insert a node with information e into `L` as the first node in the list; in case `L` is empty, make a node containing e the only node in `L` and the current node.
+  - `insertInOrder(L, e)`: Procedure to insert a node with information e into `L` as a node in the list, maintaining the order of the elements; in case L is empty, make a node containing e the only node in `L` and the current node.
 
+### Example Specification of List ADT (final)
+- Functions/Methods/Operations **Continued One Last Time**:
+  - `delete(L)`: Procedure to delete the current node in L and to have the current position indicate the next node; if the current node is the last node, the current position becomes empty.
+  - `storeInfo(L, e)`: Procedure to update the information portion of the current node to contain e; assume the current position is nonempty.
+  - `retrieveInfo(L) -> e`: Function to return the information in the current node; assume the current position is nonempty.
 
+### Example Specification of List ADT - Axioms, Preconditions, Postconditions
 
+- Axioms:
+  - Empty ()?
+  - Not empty ()?
+  - Others?
+- Preconditions:
+  - `delete()` requires that the list is not empty ().
+- Postconditions:
+  - After `insert()` is executed, the list is not empty ().
+  - Others?
+ 
+--- 
+
+<p align= "center">
+  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(2)%20Recursion">Part 2: Recursion</a>
+</p>
