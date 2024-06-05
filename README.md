@@ -20,7 +20,13 @@
 #### 2. [Recursion](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(2)%20Recursion)
 
 **Lecture Topics:**
-- 
+- What is Recursion?
+- Key Attributes of Recursive Problems
+  - Base Case
+  - Recursive Case
+- Advantages/Disadvantages of Recursion
+- Examples in C/C++
+- Recursive Function Properties 
 
 ---
 
