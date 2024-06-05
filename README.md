@@ -1,15 +1,15 @@
 # CPTS122 - WASHINGTON STATE UNIVERISTY 
 ## C/C++ - Data Structures
 
-# Course Information
+### Course Information
 
-## Instructor Details
+#### Instructor Details
 - **Name**: ***[Andrew S. O’Fallon](https://www.linkedin.com/in/andrew-o-fallon-631281a1/)***
 
 
 
-## Course Description
-This course covers a variety of topics in computer science including:
+#### Course Description
+- This course covers a variety of topics in computer science including:
 - 
 
 
