@@ -192,6 +192,11 @@ void insertFront(Node **pList, char newData) {
 - Is it possible to return a Boolean for `insertFront()` to indicate a memory allocation error, where TRUE means error and FALSE means no error?
 - `insertFront()` will be seen again with a Stack data structure.
 
+--- 
+
+<p align= "center">
+  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(6)%20Stacks">Part 5: Stacks</a>
+</p>
 
 
 
