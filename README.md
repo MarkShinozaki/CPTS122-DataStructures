@@ -60,7 +60,13 @@
 #### 5. [Linked Lists](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(5)%20Linked%20Lists)
 
 **Lecture Topics:**
-- 
+- How do we select a Data Structure?
+- Definition of Linked List
+- Struct Node
+- Initializing a List
+- Checking for Empty List
+- Printing Data in List
+- Inserting Data at Front of List 
 
 ---
 
