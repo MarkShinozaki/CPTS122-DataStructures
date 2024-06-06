@@ -67,14 +67,18 @@
 - Checking for Empty List
 - Printing Data in List
 - Inserting Data at Front of List 
-
 ---
 
 #### 6. [Stacks](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(6)%20Stacks)
 
 **Lecture Topics:**
-- 
-
+- What is a Stack ?
+- The Function-Call Stack
+- Stack Frames
+- The Heap
+- Initializing a Stack
+- Printing Stack
+- Inserting/Deleting from Stack 
 
 --- 
 
