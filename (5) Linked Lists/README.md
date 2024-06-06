@@ -195,7 +195,7 @@ void insertFront(Node **pList, char newData) {
 --- 
 
 <p align= "center">
-  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(6)%20Stacks">Part 5: Stacks</a>
+  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(6)%20Stacks">Part 6: Stacks</a>
 </p>
 
 
