@@ -187,10 +187,10 @@ void insertFront(Node **pList, char newData) {
 }
 ```
 
-Closing Thoughts
-Can you build a driver program to test these functions?
-Is it possible to return a Boolean for insertFront() to indicate a memory allocation error, where TRUE means error and FALSE means no error?
-insertFront() will be seen again with a Stack data structure.
+### Closing Thoughts
+- Can you build a driver program to test these functions?
+- Is it possible to return a Boolean for `insertFront()` to indicate a memory allocation error, where TRUE means error and FALSE means no error?
+- `insertFront()` will be seen again with a Stack data structure.
 
 
 
