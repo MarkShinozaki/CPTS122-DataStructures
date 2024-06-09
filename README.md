@@ -96,8 +96,19 @@
 #### 8. [Trees](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(8)%20Trees)
 
 **Lecture Topics:**
-
-- 
+- What are Trees?
+- Node, Root, Edge, Leaf, Subtree, Binary Tree
+- Basic Tree Operations
+- Binary Tree Implementation in C
+  - Structure definition
+  - Insertion Function
+  - In-Order Traversal
+  - Main function
+- Binary Tree Implementation in C++
+- Key Differences Between C and C++ Implementations
+  - Memory Management
+  - Standard Libraries
+  - Syntax
 
 ---
 
