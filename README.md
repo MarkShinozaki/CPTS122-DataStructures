@@ -85,7 +85,11 @@
 #### 7. [Queues](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(7)%20Queues)
 
 **Lecture Topics:**
-- 
+- What is a Queue?
+- Linked List Implementations of Queues
+- Checking for Empty Queue in C
+- Printing Data in Queue in C
+- Queue Applications 
 
 ---
 
