@@ -127,6 +127,13 @@
 - Unary Scope Resoltion Operator
 - Function Overloading
 - Standard Template Library (STL)
+- Function Templates
+- Classes & Member Functions
+- THe Rule of Three
+- Law of the Big Three
+- Constructors
+- Destructors
+- Setters (Mutators) and Getters (Accessors) 
   
 ---
 
