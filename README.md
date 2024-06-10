@@ -137,7 +137,7 @@
   
 ---
 
-#### 9.5. [Streams & File Processing in C++]()
+#### 9.5. [Streams & File Processing in C++](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(9.5)%20Streams%20%26%20File%20Processing%20C%2B%2B)
 
 **Lecture Topics:**
 
