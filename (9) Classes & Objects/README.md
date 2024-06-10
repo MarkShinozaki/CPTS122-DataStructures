@@ -498,5 +498,5 @@ ComplexNumber(ComplexNumber& copyObject);
   --- 
 
 <p align= "center">
-  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/blob/Lectures-Slides">Part 9.5: Streams & File Processing in C++</a>
+  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(9.5)%20Streams%20%26%20File%20Processing%20C%2B%2B">Part 9.5: Streams & File Processing in C++</a>
 </p>
