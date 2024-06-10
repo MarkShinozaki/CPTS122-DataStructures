@@ -115,8 +115,18 @@
 #### 9. [Classes & Objects](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(9)%20Classes%20%26%20Objects)
 
 **Lecture Topics:**
-
-- 
+- Object Oriented Desing (OOD)
+- Object-oriented Programming
+- Class & Objects
+  - What is a class?
+  - What is an object?
+- Data Encapsulation
+- Abstraction/Information Hiding
+- Basics of C++ and I/O
+- References and Reference Parameters
+- Unary Scope Resoltion Operator
+- Function Overloading
+- Standard Template Library (STL)
   
 ---
 
