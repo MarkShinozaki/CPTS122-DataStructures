@@ -116,7 +116,11 @@ int main() {
     return 0;
 }
 ```
+--- 
 
+<p align= "center">
+  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(10)%20Classes%20-%20A%20Deeper%20Look">Part 10: Classes - A Deeper Look</a>
+</p>
 
 
 
