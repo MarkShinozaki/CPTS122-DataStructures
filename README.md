@@ -163,7 +163,10 @@
 #### 11. [Operator Overloading](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(11)%20Operator%20Overloading)
 
 **Lecture Topics:**
--
+- What is Operator Overloading?
+- Rules and Restrictions on Operator Overloading
+- Which Operators Cannot be Overloaded?
+- Why Non-members Overloaded Operators?
 
 ---
 
