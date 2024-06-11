@@ -151,7 +151,11 @@
 #### 10. [Classes - A Deeper Look](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(10)%20Classes%20-%20A%20Deeper%20Look)
 
 **Lecture Topics:**
-- 
+- Composition Relationship
+- const Objects
+- const Member Functions
+- Copy Constructors for const Objects
+- the 'this' Pointer
 
 
 ---
