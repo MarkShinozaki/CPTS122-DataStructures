@@ -181,7 +181,11 @@ int main() {
 }
 ```
 
+--- 
 
+<p align= "center">
+  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(12)%20Inheritance">Part 12: Inheritance</a>
+</p>
 
 
 
