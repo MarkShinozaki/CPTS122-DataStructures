@@ -193,7 +193,15 @@
 #### 14. [Templates](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(14)%20Templates)
 
 **Lecture Topics:**
--
+- Class Scope and Accessing Class Members Explored Further
+- Access Functions
+- Utility Functions
+- Container Classes
+- Properties of STL Sequence Containers
+- Properties of STL Container Adapters
+- Functions Common to Container Classes
+- Iterators
+- Class Templates 
 
 ---
 
