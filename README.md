@@ -173,7 +173,13 @@
 #### 12. [Inheritance](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(12)%20Inheritance)
 
 **Lecture Topics:**
-- 
+- Introduction to Inheritance
+- Base Class, Derived Class
+- Types of Inheritance
+  - Public inheritance
+  - Protected Inheritance
+  - Private Inheritance
+- Complete Example on inheritance
   
 ---
 
