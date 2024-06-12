@@ -84,14 +84,30 @@
 - Move operator (=) –available in C++ 11 - move sthe contents of one container into another without copying each element of the argument container
 - Max_size–returns the maximumnumber of elements for a container
 
-Functions Common to Container Classes (IV) 
-- Begin - overloaded to retrun an iterator that refers 
+#### Functions Common to Container Classes (IV)
+- **Begin** – overloaded to return an iterator that refers to the first element of the container.
+- **End** – overloaded to return an iterator that refers to the next position after the end of the container.
+- **Erase** – removes one or more elements from the container.
+- **Clear** – removes all elements from the container.
+- Others exist!
 
+### Iterators
+- Similar properties to a pointer.
+- An iterator is any object that points to some element in a sequence of elements and has the ability to iterate through the elements using ++ and indirection (*) operators.
+- Containers support the use of iterators.
 
+### Class Templates
+- We have already seen function templates, we will now extend the idea to classes.
+- Class templates allow for a way to easily specify a variety of related overloaded functions (function-template specializations) or classes (class-template specializations).
+- Allows for generic programming.
+- Keyword `template` denotes the start of a class template.
+- STL containers are “templated”.
 
+--- 
 
-
-
+<p align= "center">
+  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(14)%20Templates">Part 14: Templates</a>
+</p>
 
 
 
