@@ -239,6 +239,11 @@
 #### 19. [Algorithm Analysis](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(19)%20Algorithm%20Analysis)
 
 **Lecture Topics:**
-
--
+- Efficiency of Algorithms
+- Sequential Search Algorithm
+- Order of Magnitude("Big-O")
+- Selection Sort
+- Space Analysis
+- Binary Search
+- Example Code 
 
