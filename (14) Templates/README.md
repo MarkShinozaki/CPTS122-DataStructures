@@ -106,7 +106,7 @@
 --- 
 
 <p align= "center">
-  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(14)%20Templates">Part 14: Templates</a>
+  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(15)%20Exception%20Handling">Part 15: Exception Handling</a>
 </p>
 
 
