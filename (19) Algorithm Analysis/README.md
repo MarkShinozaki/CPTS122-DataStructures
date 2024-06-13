@@ -182,3 +182,8 @@ int main() {
     return 0;
 }
 ```
+--- 
+
+<p align= "center">
+  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(1)%20Introduction">Part 1: Introduction</a>
+</p>
