@@ -1,7 +1,7 @@
 # Quiz 4
 ## Questions 
 
-### **1. What is a copy Constructor? Explain.**
+### **1. What is a Copy Constructor? Explain.**
 **Answer:**
 - A copy constructor is a special constructor in C++ used to create a new object as a copy of an existing object. It initializes the new object with the values from the existing object. The copy constructor has the following signature:
 ```c
