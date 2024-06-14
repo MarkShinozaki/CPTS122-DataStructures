@@ -1,7 +1,7 @@
 # Quiz 6
 ## Questions 
 
-### **1.What is a binary search tree (BST)? Describe the properties of a BST in your answer. Also list one real-world example where a BST could be applied.**
+### **1. What is a binary search tree (BST)? Describe the properties of a BST in your answer. Also list one real-world example where a BST could be applied.**
 **Answer:**
 - A binary search tree (BST) is a binary tree in which each node has at most two children, referred to as the left child and the right child. The properties of a BST are:
   - The left subtree of a node contains only nodes with keys less than the node’s key.
@@ -10,7 +10,7 @@
 - Real-world example: A BST can be used in database indexing to quickly locate a record (e.g., finding a specific name in a phone directory).
 ---
 
-### **2.Given the following sequence of numbers: 35, 50, 5, -5, 10, -1. If the numbers are inserted into a BST in the sequence provided, what would the tree look like? Draw a diagram for the BST. Be sure to show both branches of a given node.**
+### **2. Given the following sequence of numbers: 35, 50, 5, -5, 10, -1. If the numbers are inserted into a BST in the sequence provided, what would the tree look like? Draw a diagram for the BST. Be sure to show both branches of a given node.**
 **Answer:**
 ```
         35
