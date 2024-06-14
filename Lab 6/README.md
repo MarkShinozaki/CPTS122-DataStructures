@@ -232,7 +232,11 @@ int main() {
 }
 ```
 
+--- 
 
+<p align= "center">
+  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Labs/Lab%207">Lab 7</a>
+</p>
 
 
 
