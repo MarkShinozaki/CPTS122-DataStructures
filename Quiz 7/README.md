@@ -3,7 +3,7 @@
 ## Questions
 
 ### Part 1: Short Answer 
-#### **What is Inheritance? Explain***
+#### **What is Inheritance? Explain**
 **Answer:**
 - Inheritance is a feature of object-oriented programming that allows a new class to inherit properties and behaviors (methods) from an existing class. The new class is called the derived (or child) class, and the existing class is called the base (or parent) class. Inheritance promotes code reuse and establishes a natural hierarchy between classes.
 ```c++
