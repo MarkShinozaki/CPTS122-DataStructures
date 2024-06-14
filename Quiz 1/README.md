@@ -68,7 +68,7 @@ int strlen_recursive(const char *str) {
 
 
 <p align= "center">
-  <a href="">Quiz 2</a>
+  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Quizzes/Quiz%202">Quiz 2</a>
 </p>
 
 
