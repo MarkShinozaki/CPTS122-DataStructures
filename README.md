@@ -186,7 +186,14 @@
 #### 13. [Polymorphism](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(13)%20Polymorphism)
 
 **Lecture Topics:**
-- 
+- Introduction to Polymorphism
+- Types of Polymorphism
+- Compile-time Polymorphism
+  - Function Overloading
+  - Operator Overloading
+- Run-time Polymorphism
+- Virtual Functions
+- Pure Virtual Functions and Abstract Classes
   
 ---
 
