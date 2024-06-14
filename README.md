@@ -246,8 +246,12 @@
 #### 17. [Hash Table](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(17)%20Hash%20Table)
 
 **Lecture Topics:**
-
--
+- Hash Function
+- Collision Handling
+- Load Factor
+- Example of Hash Table with Chaining
+  - Hash Table Interface
+  - Hash Table Implemation using Chaining 
 
 ---
 
