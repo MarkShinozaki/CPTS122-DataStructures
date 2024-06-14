@@ -32,8 +32,8 @@ int main() {
 ---
 ### Part 2: Fill-In-The-Blank
 
-**Answers:**
-**2. The following class diagram is an example of multiple `inheritance`.**
+**2. The following class diagram is an example of multiple __ `inheritance` __.**
+
 **Diagram**
 ```
   Shape
@@ -46,13 +46,13 @@ int main() {
 
 ```
 
-**3. Inheritance is representative of a(n) `IS-A` relationship. A Rectangle object demonstrates this relationship because it can be treated as a Shape object.**
+**3. Inheritance is representative of a(n) __ `IS-A` __ relationship. A Rectangle object demonstrates this relationship because it can be treated as a Shape object.**
 
-**4. When an object of a derived class is instantiated the base class’ `constructor` is called implicitly or explicitly to initialize the data members of the base-class in the derived-class object.**
+**4. When an object of a derived class is instantiated the base class’ __ `constructor` __ is called implicitly or explicitly to initialize the data members of the base-class in the derived-class object.**
 
-**5. `multilevel` inheritance is demonstrated when a derived class inherits properties from 2 or more base classes.**
+**5. __ `multilevel` __  inheritance is demonstrated when a derived class inherits properties from 2 or more base classes.**
 
-**6. `Software Testing` provides higher levels of developer productivity through leveraging well-tested quality code.**
+**6. __ `Software Testing` __ provides higher levels of developer productivity through leveraging well-tested quality code.**
 
 
 ---
