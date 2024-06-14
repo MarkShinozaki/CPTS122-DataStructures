@@ -1,7 +1,7 @@
 # Quiz 5
 ## Questions 
 
-### **1.What is a `const` object? What kids of functions can a `const` object invoke? Explain.**
+### **1. What is a `const` object? What kids of functions can a `const` object invoke? Explain.**
 **Answer:**
 - A `const` object is an object whose state cannot be modified after it is created. This means that once a `const` object is initialized, none of its data members can be changed, and only `const` member functions can be called on it. `const` member functions are functions that do not modify the state of the object and are marked with the const keyword at the end of the function signature.
 
