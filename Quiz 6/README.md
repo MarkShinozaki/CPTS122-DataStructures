@@ -51,5 +51,5 @@
 ---
 
 <p align= "center">
-  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Quizzes/Quiz%206">Quiz 7</a>
+  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Quizzes/Quiz%207">Quiz 7</a>
 </p>
