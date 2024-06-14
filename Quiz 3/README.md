@@ -47,7 +47,7 @@ int main() {
 
 ```
 ---
-### **3. What is a Reference? Explain.
+### **3. What is a Reference? Explain.**
 **Answer:**
 - A reference is an alias for another variable. Once a reference is initialized to a variable, it cannot be changed to refer to another variable. References are used to pass variables to functions without copying. This allows functions to modify the variable's value directly.
 **Example:**
@@ -64,7 +64,7 @@ int main() {
 ```
 ---
 
-### **4. What is a class? Explain.
+### **4. What is a class? Explain.**
 **Answer:**
 - A class is a user-defined data type that serves as a blueprint for creating objects. It encapsulates data and functions that operate on that data. A class can have access specifiers (private, protected, public) to control access to its members.
 **Example:**
