@@ -258,8 +258,18 @@
 #### 18. [Sorting](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(18)%20Sorting)
 
 **Lecture Topics:**
-
--
+- Introduction to Sorting
+- Key Concepts
+  - Stability
+  - In-place Sorting
+  - Time Complexity
+- Common Sorting Algorithms
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+  
 
 ---
 
