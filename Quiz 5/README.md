@@ -50,7 +50,7 @@ int main() {
 }
 ```
 ---
-3. What is a Function Template? Explain.
+### **3. What is a Function Template? Explain.**
 **Answer:**
 - A function template is a blueprint for creating a family of functions with different parameter types. It allows the creation of generic functions that can work with any data type. Templates enable code reuse and flexibility. The keyword template is used to define a template.
 **Example:**
