@@ -64,5 +64,13 @@ int strlen_recursive(const char *str) {
 }
 ```
 
+---
+
+
+<p align= "center">
+  <a href="">Quiz 2</a>
+</p>
+
+
 
 
