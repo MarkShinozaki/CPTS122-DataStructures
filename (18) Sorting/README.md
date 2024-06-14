@@ -87,7 +87,7 @@ int main() {
     return 0;
 }
 ```
-### **Inseration Sort**
+### **Insertion Sort**
 
 Insertion Sort is an in-place comparison-based algorithm. It builds the sorted array one element at a time by repeatedly picking the next element and inserting it into the correct position.
 
