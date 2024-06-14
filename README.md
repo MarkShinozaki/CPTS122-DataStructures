@@ -215,7 +215,18 @@
 #### 15. [Exception Handling](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(15)%20Exception%20Handling)
 
 **Lecture Topics:**
-- 
+- Introduction to Exception Handling
+- Exception
+- Try Block
+- Catch Block
+- Throw Statment
+- Standard Exceptions
+- Examples of Exception Handling
+- Standard Exceptions
+- Multiple Catch Blocks
+- Catch-All Handler
+- Rethrowing Exceptions
+- Custom Exceptions 
 
 ---
 
