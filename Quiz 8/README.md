@@ -40,6 +40,11 @@ void subArray(int arr[], int n) {
 **Answer:**
 - The diamond problem is an ambiguity that arises in multiple inheritance. It occurs when two classes B and C inherit from a common base class A, and a class D inherits from both B and C. If both B and C have overridden a method from A, and D inherits from both B and C, it is unclear which version of the method D should inherit.
 
+---
+
+<p align= "center">
+  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Quizzes/Quiz%209">Quiz 9</a>
+</p>
 
 
 
