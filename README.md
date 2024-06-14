@@ -1,2 +1,3 @@
 # WSUCpts122
-Programming Assignments 
+
+Quizzes
