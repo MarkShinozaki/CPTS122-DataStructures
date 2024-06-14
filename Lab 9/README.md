@@ -3,5 +3,5 @@
 --- 
 
 <p align= "center">
-  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Labs/Lab%201">Lab 1</a>
+  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Labs/Lab%202">Lab 2</a>
 </p>
