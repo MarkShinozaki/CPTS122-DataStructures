@@ -118,5 +118,10 @@ int main() {
     return 0;
 }
 ```
+---
+
+<p align= "center">
+  <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Quizzes/Quiz%205">Quiz 5</a>
+</p>
 
 
