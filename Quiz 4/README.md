@@ -27,7 +27,7 @@ int main() {
 
 ---
 
-### **2. What is a destructor? Explain.**
+### **2. What is a Destructor? Explain.**
 **Answer:**
 - A destructor is a member function which destructs or deletes an object. It has the same name as the class with a tilde (~) prefix and does not take any arguments or return any value. The destructor is called when an object goes out of scope or is explicitly deleted. It is primarily used to release resources that the object may have acquired during its lifetime.
 
