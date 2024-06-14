@@ -233,8 +233,13 @@
 #### 16. [Abstract Data Types](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides/(16)%20Abstract%20Data%20Types)
 
 **Lecture Topics:**
-
--
+- Introduction to Abstract Data Types
+- Defintion of ADTs
+- Benefits of ADTs
+  - Encapsulation
+  - Modularity
+  - Reuseability
+-  Examples of ADTs
 
 ---
 
