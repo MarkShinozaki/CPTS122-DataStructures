@@ -146,7 +146,7 @@ int main() {
     return 0;
 }
 ```
-#### Custome Exceptions 
+#### Custom Exceptions 
 
 C++ allows the creation of custom exceptions by inheriting from the `std::exception` class.
 
