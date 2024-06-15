@@ -294,7 +294,7 @@ void loadPlaylist(Node** head) {
 5. musicPlaylist.csv file (if modified).
 6. Any additional files required by your program.
 
-## Tips:
+## Tips
 - Break down the tasks into smaller, manageable functions.
 - Continuously test your functions as you implement them.
 - Follow good coding practices and maintain a clean, readable codebase.
