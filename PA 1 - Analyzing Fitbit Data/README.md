@@ -206,7 +206,7 @@ fclose(outputFile);
 4. readme.txt file.
 5. Results.csv file.
 
-## Tips:
+## Tips
 - Break down the tasks into smaller, manageable functions.
 - Continuously test your functions as you implement them.
 - Follow good coding practices and maintain a clean, readable codebase.
