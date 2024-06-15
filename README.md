@@ -1,6 +1,4 @@
-# WSUCpts122
-
-## Quizzes
+# Quizzes
 
 #### [**Quiz 1**](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Quizzes/Quiz%201)
   - Implement a function `my_strncpy()`
