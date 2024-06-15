@@ -108,3 +108,119 @@ You must design and implement three test functions. These test functions must no
 
 # Step-by-Step Guide to Completing Programming Assignment 3: Digital Music Manager & Doubly Linked Lists - Part II
 
+## Step 1: Understand the Requirements
+- Read the assignment guidelines thoroughly to understand the objectives and requirements.
+- Review the data structure definitions, required functionalities, and the output format.
+
+## Step 2: Set Up Your Development Environment
+- Ensure you have Microsoft Visual Studio 2019 installed.
+- Create a new project for the assignment.
+
+## Step 3: Review Previous Implementation
+- Review the code and structures implemented in PA 2.
+- Identify areas where new features (insert, delete, sort, shuffle) need to be added.
+
+## Step 4: Implement Insert Function
+- Prompt the user for new record details.
+- Insert the new record at the front of the doubly linked list.
+- Ensure proper memory allocation and linking of nodes.
+
+**Example:**
+```c
+void insertFront(Node** head, Record data) {
+    Node* newNode = makeNode(data);
+    if (*head == NULL) {
+        *head = newNode;
+    } else {
+        newNode->next = *head;
+        (*head)->prev = newNode;
+        *head = newNode;
+    }
+}
+```
+
+## Step 5: Implement Delete Function
+- Prompt the user for a song title.
+- Search for the matching record in the list.
+- Remove the matching record and update the links accordingly.
+
+**Example:**
+```c
+void deleteNode(Node** head, char* songTitle) {
+    Node* temp = *head;
+    while (temp != NULL) {
+        if (strcmp(temp->data.song, songTitle) == 0) {
+            if (temp->prev != NULL) {
+                temp->prev->next = temp->next;
+            }
+            if (temp->next != NULL) {
+                temp->next->prev = temp->prev;
+            }
+            if (temp == *head) {
+                *head = temp->next;
+            }
+            free(temp);
+            return;
+        }
+        temp = temp->next;
+    }
+}
+```
+## Step 6: Implement Sort Function
+- Prompt the user for the sorting method.
+- Implement sorting based on artist, album title, rating, and times played using suitable sorting algorithms.
+
+**Example:**
+```c
+void sortList(Node** head, int sortMethod) {
+    // Implement sorting logic based on sortMethod
+}
+```
+
+## Step 7: Implement Shuffle Function
+- Generate a random order for playing songs.
+- Traverse the list in the specified order without modifying the links.
+
+**Example:**
+```c
+void shuffleList(Node* head) {
+    // Implement shuffle logic
+}
+```
+## Step 8: Implement Test Functions
+- Create test functions for insert, delete, and shuffle commands.
+- Validate that the corresponding functions work as expected with edge cases.
+
+**Example:**
+```c
+void testInsert(Node** head) {
+    Record data = {"Perry, Katy", "Witness", "Chained to the Rhythm", "pop", {4, 36}, -1, 6};
+    insertFront(head, data);
+    // Validate the insert operation
+}
+```
+## Step 9: Test Your Program
+- Create test cases to ensure your program works as expected.
+- Verify the correctness of the output by comparing it with expected results.
+
+## Step 10: Prepare Documentation
+- Write a test plan that includes sample input data, expected results, and screenshots of your program’s output.
+- Create a readme.txt file with any assumptions, referenced files, and other relevant information.
+
+## Step 11: Submit Your Assignment
+- Zip all required files into a single file named `<your last name>_PA3.zip.`
+- Upload the zip file to the appropriate Canvas assignment submission folder.
+
+## Summary of Files to Include:
+1. C program code files.
+2. Header files.
+3. Test plan document (Word).
+4. readme.txt file.
+5. musicPlaylist.csv file (if modified).
+6. Any additional files required by your program.
+
+## Tips:
+- Break down the tasks into smaller, manageable functions.
+- Continuously test your functions as you implement them.
+- Follow good coding practices and maintain a clean, readable codebase.
+  
