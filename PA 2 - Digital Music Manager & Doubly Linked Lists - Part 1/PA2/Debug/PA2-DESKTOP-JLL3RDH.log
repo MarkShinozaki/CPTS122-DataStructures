@@ -1,7 +1,0 @@
-﻿  TestFunction.c
-C:\Users\mark-\OneDrive\LapTop - Desktop\Cpts 122 - Data Structures\Programming Assigments\PA-2\PA2\TestFunction.c(45,16): warning C4101: 'nRecord': unreferenced local variable
-  main.c
-C:\Users\mark-\OneDrive\LapTop - Desktop\Cpts 122 - Data Structures\Programming Assigments\PA-2\PA2\main.c(132,11): warning C4013: 'gets' undefined; assuming extern returning int
-C:\Users\mark-\OneDrive\LapTop - Desktop\Cpts 122 - Data Structures\Programming Assigments\PA-2\PA2\main.c(35,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
-  Generating Code...
-  PA2.vcxproj -> C:\Users\mark-\OneDrive\LapTop - Desktop\Cpts 122 - Data Structures\Programming Assigments\PA-2\PA2\Debug\PA2.exe
