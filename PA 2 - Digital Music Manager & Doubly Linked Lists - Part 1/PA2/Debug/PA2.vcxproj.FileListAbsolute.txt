@@ -1,0 +1,3 @@
+C:\Users\mark-\OneDrive\LapTop - Desktop\Cpts 122 - Data Structures\Programming Assigments\PA-2\PA2\Debug\PA2.exe
+C:\Users\mark-\OneDrive\LapTop - Desktop\Cpts 122 - Data Structures\Programming Assigments\PA-2\PA2\Debug\PA2.pdb
+C:\Users\mark-\OneDrive\LapTop - Desktop\Cpts122 - Data Structures\PAs\PA 2\PA-2\PA2\Debug\PA2.exe
