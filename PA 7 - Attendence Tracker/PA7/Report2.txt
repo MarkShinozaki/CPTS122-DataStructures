@@ -1,0 +1,50 @@
+[ Report for the students who absent over 2 times ]
+
+ -record number: 8
+ -ID : 1122
+ -Name : Smith,Jane
+ -Email : jane@cpts122.edu
+ -Unit : 4
+ -Major : CS
+ -Level : Sophomore
+The number of Absence : 2
+The recent date of Absence : 2024-6-16
+record of absent dates
+//2017-4-6/2024-6-16
+
+ -record number: 7
+ -ID : 7759
+ -Name : Sam,Theo
+ -Email : samt@cpts122.edu
+ -Unit : 4
+ -Major : EE
+ -Level : Sophomore
+The number of Absence : 2
+The recent date of Absence : 2024-6-16
+record of absent dates
+//2017-4-6/2024-6-16
+
+ -record number: 4
+ -ID : 4478
+ -Name : Art,Bruce
+ -Email : bart@cpts122.edu
+ -Unit : AU
+ -Major : CPTE
+ -Level : Freshman
+The number of Absence : 2
+The recent date of Absence : 2024-6-16
+record of absent dates
+//2017-4-6/2024-6-16
+
+ -record number: 3
+ -ID : 1121
+ -Name : Leinart,Timothy
+ -Email : tim@cpts122.edu
+ -Unit : 4
+ -Major : EE
+ -Level : Junior
+The number of Absence : 2
+The recent date of Absence : 2024-6-16
+record of absent dates
+//2017-4-6/2024-6-16
+

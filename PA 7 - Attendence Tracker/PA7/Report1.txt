@@ -1,0 +1,102 @@
+[ Report for All students ]
+
+ -record number: 10
+ -ID : 3255
+ -Name : Mort,Kris
+ -Email : mort@cpts122.edu
+ -Unit : 4
+ -Major : CS
+ -Level : Senior
+The number of Absence : 1
+The recent date of Absence : 2024-6-16
+
+ -record number: 9
+ -ID : 1222
+ -Name : Willis,Bruce
+ -Email : brucewillis@cpts122.edu
+ -Unit : AU
+ -Major : CS
+ -Level : Sophomore
+The number of Absence : 1
+The recent date of Absence : 2024-6-16
+
+ -record number: 8
+ -ID : 1122
+ -Name : Smith,Jane
+ -Email : jane@cpts122.edu
+ -Unit : 4
+ -Major : CS
+ -Level : Sophomore
+The number of Absence : 2
+The recent date of Absence : 2024-6-16
+
+ -record number: 7
+ -ID : 7759
+ -Name : Sam,Theo
+ -Email : samt@cpts122.edu
+ -Unit : 4
+ -Major : EE
+ -Level : Sophomore
+The number of Absence : 2
+The recent date of Absence : 2024-6-16
+
+ -record number: 6
+ -ID : 5530
+ -Name : Payton,Ella
+ -Email : epayton@cpts122.edu
+ -Unit : 4
+ -Major : CPTE
+ -Level : Graduate
+The number of Absence : 1
+The recent date of Absence : 2024-6-16
+
+ -record number: 5
+ -ID : 2121
+ -Name : James,Hannah
+ -Email : jameshannah@cpts122.edu
+ -Unit : 4
+ -Major : CS
+ -Level : Freshman
+The number of Absence : 1
+The recent date of Absence : 2024-6-16
+
+ -record number: 4
+ -ID : 4478
+ -Name : Art,Bruce
+ -Email : bart@cpts122.edu
+ -Unit : AU
+ -Major : CPTE
+ -Level : Freshman
+The number of Absence : 2
+The recent date of Absence : 2024-6-16
+
+ -record number: 3
+ -ID : 1121
+ -Name : Leinart,Timothy
+ -Email : tim@cpts122.edu
+ -Unit : 4
+ -Major : EE
+ -Level : Junior
+The number of Absence : 2
+The recent date of Absence : 2024-6-16
+
+ -record number: 2
+ -ID : 8147
+ -Name : Beck,Sara
+ -Email : sara@cpts122.edu
+ -Unit : 4
+ -Major : EE
+ -Level : Junior
+The number of Absence : 1
+The recent date of Absence : 2024-6-16
+
+ -record number: 1
+ -ID : 1111
+ -Name : Smith,John
+ -Email : smithj@cpts122.edu
+ -Unit : 4
+ -Major : CS
+ -Level : Freshman
+The number of Absence : 1
+The recent date of Absence : 2024-6-16
+
