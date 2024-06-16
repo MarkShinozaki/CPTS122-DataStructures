@@ -1,8 +1,0 @@
-﻿  functions.c
-  main.c
-  Generating Code...
-C:\Users\mark-\OneDrive\LapTop - Desktop\Cpts122 - Data Structures\PAs\PA 1\PA-1\PA-1\functions.c(91,13): warning C4047: '!=': 'char *' differs in levels of indirection from 'int'
-C:\Users\mark-\OneDrive\LapTop - Desktop\Cpts122 - Data Structures\PAs\PA 1\PA-1\PA-1\functions.c(105,13): warning C4047: '!=': 'char *' differs in levels of indirection from 'int'
-C:\Users\mark-\OneDrive\LapTop - Desktop\Cpts122 - Data Structures\PAs\PA 1\PA-1\PA-1\functions.c(119,13): warning C4047: '!=': 'char *' differs in levels of indirection from 'int'
-C:\Users\mark-\OneDrive\LapTop - Desktop\Cpts122 - Data Structures\PAs\PA 1\PA-1\PA-1\functions.c(281,21): warning C4018: '>=': signed/unsigned mismatch
-  PA-1.vcxproj -> C:\Users\mark-\OneDrive\LapTop - Desktop\Cpts122 - Data Structures\PAs\PA 1\PA-1\PA-1\Debug\PA-1.exe
